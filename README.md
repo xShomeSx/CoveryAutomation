@@ -4,7 +4,8 @@ Testing Automation for emulation of Human made processes
 
 
 1. Automation durch emulation von HID (Human interface device)
-2. Limit?
+2. Limit an Cointern auf einem Gerät?
+
 3. Emulation eines Human Inputs zum Generieren von Content:
    - Prompts generieren
    - Propts aussortieren
