@@ -40,7 +40,7 @@ docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=
 
  
 
-Stable Diffusion Install
+# Stable Diffusion Install
 Prereqs
 Pyenv
 #Install Pyenv prereqssudo apt install -y make build-essential libssl-dev zlib1g-dev \
