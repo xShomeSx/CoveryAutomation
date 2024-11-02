@@ -1,15 +1,19 @@
 # Setup WSL (Windows)
 Install WSL and Ubuntu
+
 wsl --install
 
 Connect to a WSL Instance in a new window
+
 wsl -d Ubuntu
 
 # Install Ollama
+
 https://ollama.com/download
 
 Add a model to Ollama
-ollama pull llama2
+
+ollama pull dolphin-llama3
 
  
 
